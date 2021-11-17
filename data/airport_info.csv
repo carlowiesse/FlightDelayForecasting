@@ -1,0 +1,31 @@
+code,city,state,name,lat,lon
+ATL,Atlanta, GA, Hartsfield-Jackson Atlanta International,33.640411,-84.419853
+BWI,Baltimore, MD, Baltimore/Washington International Thurgood Marshall,39.1774,-76.6684
+BOS,Boston, MA, Logan International,42.366978,-71.022362
+CLT,Charlotte, NC, Charlotte Douglas International,35.21389,-80.943054
+MDW,Chicago, IL, Chicago Midway International,41.7868,-87.7522
+ORD,Chicago, IL, Chicago O'Hare International,41.978611,-87.904724
+DFW,Dallas/Fort Worth, TX, Dallas/Fort Worth International,32.89748,-97.040443
+DEN,Denver, CO, Denver International,39.849312,-104.673828
+DTW,Detroit, MI, Detroit Metro Wayne County,42.2162,-83.3554
+FLL,Fort Lauderdale, FL, Fort Lauderdale-Hollywood International,26.0742,-80.1506
+HNL,Honolulu, HI, Daniel K Inouye International,21.3186,-157.9253
+IAH,Houston, TX, George Bush Intercontinental/Houston,29.9902,-95.3368
+LAS,Las Vegas, NV, McCarran International,36.08601,-115.153969
+LAX,Los Angeles, CA, Los Angeles International,33.942791,-118.410042
+MIA,Miami, FL, Miami International,25.7969,-80.2762
+MSP,Minneapolis, MN, Minneapolis-St Paul International,44.8848,-93.2223
+LGA,New York, NY, LaGuardia,40.7769,-73.874
+JFK,New York, NY, John F. Kennedy International,40.641766,-73.780968
+EWR,Newark, NJ, Newark Liberty International,40.6895,-74.1745
+MCO,Orlando, FL, Orlando International,28.4179,-81.3041
+PHL,Philadelphia, PA, Philadelphia International,39.8729,-75.2437
+PHX,Phoenix, AZ, Phoenix Sky Harbor International,33.4352,-112.0101
+PDX,Portland, OR, Portland International,45.5898,-122.5951
+SLC,Salt Lake City, UT, Salt Lake City International,40.7899,-111.9791
+SAN,San Diego, CA, San Diego International,32.7338,-117.1933
+SFO,San Francisco, CA, San Francisco International,37.6213,-122.379
+SEA,Seattle, WA, Seattle/Tacoma International,47.4502,-122.3088
+TPA,Tampa, FL, Tampa International,27.9772,-82.5311
+IAD,Washington, DC, Washington Dulles International,38.9531,-77.4565
+DCA,Washington, DC, Ronald Reagan Washington National,38.8512,-77.0402
